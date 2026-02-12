@@ -1,4 +1,4 @@
-# Python-Programming
+# Library Management system(Python)
 Project Description:
 
 The Library Management System is a simple console-based Python project developed for 1st year students.
